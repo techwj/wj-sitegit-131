@@ -1,0 +1,852 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-nordic-fresh-style",
+      "title": "The Ultimate Guide to Beginner Nordic Fresh Style",
+      "category": "beginner-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.838667",
+      "image": {
+        "id": "ec200db32f3901c9b76c0d196fd972180ca81816975f05766318f2ead6e487be",
+        "url": "https://picsum.photos/992/565?random=547",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Nordic Fresh Style",
+        "width": 992,
+        "height": 565
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-nordic-fresh-style-everything-you-need-to-know",
+      "title": "Beginner Nordic Fresh Style: Everything You Need to Know",
+      "category": "beginner-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.912295",
+      "image": {
+        "id": "d9bc6151f582eddd3bbbf7701e90e05d33a229b295da6aa6bde319ba06a2f931",
+        "url": "https://picsum.photos/831/579?random=633",
+        "alt": "Featured image for: Beginner Nordic Fresh Style: Everything You Need to Know",
+        "width": 831,
+        "height": 579
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-nordic-fresh-style",
+      "title": "Understanding Beginner Nordic Fresh Style",
+      "category": "beginner-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.912448",
+      "image": {
+        "id": "90995bcdbe3b2b32e6e8ec46d0b53d478c6e798acd91015763ba72c10541e30b",
+        "url": "https://picsum.photos/896/534?random=63",
+        "alt": "Featured image for: Understanding Beginner Nordic Fresh Style",
+        "width": 896,
+        "height": 534
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-nordic-fresh-style-tips-and-best-practices",
+      "title": "Beginner Nordic Fresh Style Tips and Best Practices",
+      "category": "beginner-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.915822",
+      "image": {
+        "id": "20541c8c09b839af6a9996b46a94894ff88f310a557be3d464ef96949851db82",
+        "url": "https://picsum.photos/1027/502?random=524",
+        "alt": "Featured image for: Beginner Nordic Fresh Style Tips and Best Practices",
+        "width": 1027,
+        "height": 502
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-nordic-fresh-style",
+      "title": "The History of Beginner Nordic Fresh Style",
+      "category": "beginner-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.915879",
+      "image": {
+        "id": "5acb05bffe9093b6a9cdf2cb303b032e9785c07e12b2f7a7c3f7128cb31dc238",
+        "url": "https://picsum.photos/992/453?random=153",
+        "alt": "Featured image for: The History of Beginner Nordic Fresh Style",
+        "width": 992,
+        "height": 453
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-nordic-fresh-style-in-2026-current-trends",
+      "title": "Beginner Nordic Fresh Style in 2026: Current Trends",
+      "category": "beginner-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.915914",
+      "image": {
+        "id": "ec200db32f3901c9b76c0d196fd972180ca81816975f05766318f2ead6e487be",
+        "url": "https://picsum.photos/992/565?random=547",
+        "alt": "Featured image for: Beginner Nordic Fresh Style in 2026: Current Trends",
+        "width": 992,
+        "height": 565
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-nordic-fresh-style",
+      "title": "Future of Beginner Nordic Fresh Style",
+      "category": "beginner-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.915946",
+      "image": {
+        "id": "90995bcdbe3b2b32e6e8ec46d0b53d478c6e798acd91015763ba72c10541e30b",
+        "url": "https://picsum.photos/896/534?random=63",
+        "alt": "Featured image for: Future of Beginner Nordic Fresh Style",
+        "width": 896,
+        "height": 534
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-nordic-fresh-style",
+      "title": "Common Mistakes in Beginner Nordic Fresh Style",
+      "category": "beginner-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.915978",
+      "image": {
+        "id": "ec200db32f3901c9b76c0d196fd972180ca81816975f05766318f2ead6e487be",
+        "url": "https://picsum.photos/992/565?random=547",
+        "alt": "Featured image for: Common Mistakes in Beginner Nordic Fresh Style",
+        "width": 992,
+        "height": 565
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-nordic-fresh-style-for-beginners",
+      "title": "Beginner Nordic Fresh Style for Beginners",
+      "category": "beginner-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.916010",
+      "image": {
+        "id": "5acb05bffe9093b6a9cdf2cb303b032e9785c07e12b2f7a7c3f7128cb31dc238",
+        "url": "https://picsum.photos/992/453?random=153",
+        "alt": "Featured image for: Beginner Nordic Fresh Style for Beginners",
+        "width": 992,
+        "height": 453
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-nordic-fresh-style-techniques",
+      "title": "Advanced Beginner Nordic Fresh Style Techniques",
+      "category": "beginner-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.916040",
+      "image": {
+        "id": "d9bc6151f582eddd3bbbf7701e90e05d33a229b295da6aa6bde319ba06a2f931",
+        "url": "https://picsum.photos/831/579?random=633",
+        "alt": "Featured image for: Advanced Beginner Nordic Fresh Style Techniques",
+        "width": 831,
+        "height": 579
+      }
+    },
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-nordic-fresh-style",
+      "title": "The Ultimate Guide to Advanced Nordic Fresh Style",
+      "category": "advanced-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.917470",
+      "image": {
+        "id": "20541c8c09b839af6a9996b46a94894ff88f310a557be3d464ef96949851db82",
+        "url": "https://picsum.photos/1027/502?random=524",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Nordic Fresh Style",
+        "width": 1027,
+        "height": 502
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-nordic-fresh-style-everything-you-need-to-know",
+      "title": "Advanced Nordic Fresh Style: Everything You Need to Know",
+      "category": "advanced-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.917639",
+      "image": {
+        "id": "d9bc6151f582eddd3bbbf7701e90e05d33a229b295da6aa6bde319ba06a2f931",
+        "url": "https://picsum.photos/831/579?random=633",
+        "alt": "Featured image for: Advanced Nordic Fresh Style: Everything You Need to Know",
+        "width": 831,
+        "height": 579
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-nordic-fresh-style",
+      "title": "Understanding Advanced Nordic Fresh Style",
+      "category": "advanced-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.917740",
+      "image": {
+        "id": "ec200db32f3901c9b76c0d196fd972180ca81816975f05766318f2ead6e487be",
+        "url": "https://picsum.photos/992/565?random=547",
+        "alt": "Featured image for: Understanding Advanced Nordic Fresh Style",
+        "width": 992,
+        "height": 565
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-nordic-fresh-style-tips-and-best-practices",
+      "title": "Advanced Nordic Fresh Style Tips and Best Practices",
+      "category": "advanced-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.917778",
+      "image": {
+        "id": "5acb05bffe9093b6a9cdf2cb303b032e9785c07e12b2f7a7c3f7128cb31dc238",
+        "url": "https://picsum.photos/992/453?random=153",
+        "alt": "Featured image for: Advanced Nordic Fresh Style Tips and Best Practices",
+        "width": 992,
+        "height": 453
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-nordic-fresh-style",
+      "title": "The History of Advanced Nordic Fresh Style",
+      "category": "advanced-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.917819",
+      "image": {
+        "id": "90995bcdbe3b2b32e6e8ec46d0b53d478c6e798acd91015763ba72c10541e30b",
+        "url": "https://picsum.photos/896/534?random=63",
+        "alt": "Featured image for: The History of Advanced Nordic Fresh Style",
+        "width": 896,
+        "height": 534
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-nordic-fresh-style-in-2026-current-trends",
+      "title": "Advanced Nordic Fresh Style in 2026: Current Trends",
+      "category": "advanced-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.917853",
+      "image": {
+        "id": "ec200db32f3901c9b76c0d196fd972180ca81816975f05766318f2ead6e487be",
+        "url": "https://picsum.photos/992/565?random=547",
+        "alt": "Featured image for: Advanced Nordic Fresh Style in 2026: Current Trends",
+        "width": 992,
+        "height": 565
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-nordic-fresh-style",
+      "title": "Future of Advanced Nordic Fresh Style",
+      "category": "advanced-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.917886",
+      "image": {
+        "id": "d9bc6151f582eddd3bbbf7701e90e05d33a229b295da6aa6bde319ba06a2f931",
+        "url": "https://picsum.photos/831/579?random=633",
+        "alt": "Featured image for: Future of Advanced Nordic Fresh Style",
+        "width": 831,
+        "height": 579
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-nordic-fresh-style",
+      "title": "Common Mistakes in Advanced Nordic Fresh Style",
+      "category": "advanced-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.918136",
+      "image": {
+        "id": "d9bc6151f582eddd3bbbf7701e90e05d33a229b295da6aa6bde319ba06a2f931",
+        "url": "https://picsum.photos/831/579?random=633",
+        "alt": "Featured image for: Common Mistakes in Advanced Nordic Fresh Style",
+        "width": 831,
+        "height": 579
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-nordic-fresh-style-for-beginners",
+      "title": "Advanced Nordic Fresh Style for Beginners",
+      "category": "advanced-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.918232",
+      "image": {
+        "id": "d9bc6151f582eddd3bbbf7701e90e05d33a229b295da6aa6bde319ba06a2f931",
+        "url": "https://picsum.photos/831/579?random=633",
+        "alt": "Featured image for: Advanced Nordic Fresh Style for Beginners",
+        "width": 831,
+        "height": 579
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-nordic-fresh-style-techniques",
+      "title": "Advanced Advanced Nordic Fresh Style Techniques",
+      "category": "advanced-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.918312",
+      "image": {
+        "id": "90995bcdbe3b2b32e6e8ec46d0b53d478c6e798acd91015763ba72c10541e30b",
+        "url": "https://picsum.photos/896/534?random=63",
+        "alt": "Featured image for: Advanced Advanced Nordic Fresh Style Techniques",
+        "width": 896,
+        "height": 534
+      }
+    },
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-nordic-fresh-style-tips",
+      "title": "The Ultimate Guide to Nordic Fresh Style Tips",
+      "category": "tips-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.918896",
+      "image": {
+        "id": "20541c8c09b839af6a9996b46a94894ff88f310a557be3d464ef96949851db82",
+        "url": "https://picsum.photos/1027/502?random=524",
+        "alt": "Featured image for: The Ultimate Guide to Nordic Fresh Style Tips",
+        "width": 1027,
+        "height": 502
+      }
+    },
+    {
+      "id": 38,
+      "slug": "nordic-fresh-style-tips-everything-you-need-to-know",
+      "title": "Nordic Fresh Style Tips: Everything You Need to Know",
+      "category": "tips-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.918961",
+      "image": {
+        "id": "90995bcdbe3b2b32e6e8ec46d0b53d478c6e798acd91015763ba72c10541e30b",
+        "url": "https://picsum.photos/896/534?random=63",
+        "alt": "Featured image for: Nordic Fresh Style Tips: Everything You Need to Know",
+        "width": 896,
+        "height": 534
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-nordic-fresh-style-tips",
+      "title": "Understanding Nordic Fresh Style Tips",
+      "category": "tips-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.919032",
+      "image": {
+        "id": "20541c8c09b839af6a9996b46a94894ff88f310a557be3d464ef96949851db82",
+        "url": "https://picsum.photos/1027/502?random=524",
+        "alt": "Featured image for: Understanding Nordic Fresh Style Tips",
+        "width": 1027,
+        "height": 502
+      }
+    },
+    {
+      "id": 40,
+      "slug": "nordic-fresh-style-tips-tips-and-best-practices",
+      "title": "Nordic Fresh Style Tips Tips and Best Practices",
+      "category": "tips-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.919099",
+      "image": {
+        "id": "5acb05bffe9093b6a9cdf2cb303b032e9785c07e12b2f7a7c3f7128cb31dc238",
+        "url": "https://picsum.photos/992/453?random=153",
+        "alt": "Featured image for: Nordic Fresh Style Tips Tips and Best Practices",
+        "width": 992,
+        "height": 453
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-nordic-fresh-style-tips",
+      "title": "The History of Nordic Fresh Style Tips",
+      "category": "tips-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.920461",
+      "image": {
+        "id": "ec200db32f3901c9b76c0d196fd972180ca81816975f05766318f2ead6e487be",
+        "url": "https://picsum.photos/992/565?random=547",
+        "alt": "Featured image for: The History of Nordic Fresh Style Tips",
+        "width": 992,
+        "height": 565
+      }
+    },
+    {
+      "id": 42,
+      "slug": "nordic-fresh-style-tips-in-2026-current-trends",
+      "title": "Nordic Fresh Style Tips in 2026: Current Trends",
+      "category": "tips-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.920547",
+      "image": {
+        "id": "20541c8c09b839af6a9996b46a94894ff88f310a557be3d464ef96949851db82",
+        "url": "https://picsum.photos/1027/502?random=524",
+        "alt": "Featured image for: Nordic Fresh Style Tips in 2026: Current Trends",
+        "width": 1027,
+        "height": 502
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-nordic-fresh-style-tips",
+      "title": "Future of Nordic Fresh Style Tips",
+      "category": "tips-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.920593",
+      "image": {
+        "id": "ec200db32f3901c9b76c0d196fd972180ca81816975f05766318f2ead6e487be",
+        "url": "https://picsum.photos/992/565?random=547",
+        "alt": "Featured image for: Future of Nordic Fresh Style Tips",
+        "width": 992,
+        "height": 565
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-nordic-fresh-style-tips",
+      "title": "Common Mistakes in Nordic Fresh Style Tips",
+      "category": "tips-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.920663",
+      "image": {
+        "id": "90995bcdbe3b2b32e6e8ec46d0b53d478c6e798acd91015763ba72c10541e30b",
+        "url": "https://picsum.photos/896/534?random=63",
+        "alt": "Featured image for: Common Mistakes in Nordic Fresh Style Tips",
+        "width": 896,
+        "height": 534
+      }
+    },
+    {
+      "id": 45,
+      "slug": "nordic-fresh-style-tips-for-beginners",
+      "title": "Nordic Fresh Style Tips for Beginners",
+      "category": "tips-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.920702",
+      "image": {
+        "id": "5acb05bffe9093b6a9cdf2cb303b032e9785c07e12b2f7a7c3f7128cb31dc238",
+        "url": "https://picsum.photos/992/453?random=153",
+        "alt": "Featured image for: Nordic Fresh Style Tips for Beginners",
+        "width": 992,
+        "height": 453
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-nordic-fresh-style-tips-techniques",
+      "title": "Advanced Nordic Fresh Style Tips Techniques",
+      "category": "tips-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.920734",
+      "image": {
+        "id": "5acb05bffe9093b6a9cdf2cb303b032e9785c07e12b2f7a7c3f7128cb31dc238",
+        "url": "https://picsum.photos/992/453?random=153",
+        "alt": "Featured image for: Advanced Nordic Fresh Style Tips Techniques",
+        "width": 992,
+        "height": 453
+      }
+    },
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-nordic-fresh-style-history",
+      "title": "The Ultimate Guide to Nordic Fresh Style History",
+      "category": "history-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.927400",
+      "image": {
+        "id": "d9bc6151f582eddd3bbbf7701e90e05d33a229b295da6aa6bde319ba06a2f931",
+        "url": "https://picsum.photos/831/579?random=633",
+        "alt": "Featured image for: The Ultimate Guide to Nordic Fresh Style History",
+        "width": 831,
+        "height": 579
+      }
+    },
+    {
+      "id": 56,
+      "slug": "nordic-fresh-style-history-everything-you-need-to-know",
+      "title": "Nordic Fresh Style History: Everything You Need to Know",
+      "category": "history-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.927439",
+      "image": {
+        "id": "90995bcdbe3b2b32e6e8ec46d0b53d478c6e798acd91015763ba72c10541e30b",
+        "url": "https://picsum.photos/896/534?random=63",
+        "alt": "Featured image for: Nordic Fresh Style History: Everything You Need to Know",
+        "width": 896,
+        "height": 534
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-nordic-fresh-style-history",
+      "title": "Understanding Nordic Fresh Style History",
+      "category": "history-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.927481",
+      "image": {
+        "id": "20541c8c09b839af6a9996b46a94894ff88f310a557be3d464ef96949851db82",
+        "url": "https://picsum.photos/1027/502?random=524",
+        "alt": "Featured image for: Understanding Nordic Fresh Style History",
+        "width": 1027,
+        "height": 502
+      }
+    },
+    {
+      "id": 58,
+      "slug": "nordic-fresh-style-history-tips-and-best-practices",
+      "title": "Nordic Fresh Style History Tips and Best Practices",
+      "category": "history-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.928009",
+      "image": {
+        "id": "ec200db32f3901c9b76c0d196fd972180ca81816975f05766318f2ead6e487be",
+        "url": "https://picsum.photos/992/565?random=547",
+        "alt": "Featured image for: Nordic Fresh Style History Tips and Best Practices",
+        "width": 992,
+        "height": 565
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-nordic-fresh-style-history",
+      "title": "The History of Nordic Fresh Style History",
+      "category": "history-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.928586",
+      "image": {
+        "id": "5acb05bffe9093b6a9cdf2cb303b032e9785c07e12b2f7a7c3f7128cb31dc238",
+        "url": "https://picsum.photos/992/453?random=153",
+        "alt": "Featured image for: The History of Nordic Fresh Style History",
+        "width": 992,
+        "height": 453
+      }
+    },
+    {
+      "id": 60,
+      "slug": "nordic-fresh-style-history-in-2026-current-trends",
+      "title": "Nordic Fresh Style History in 2026: Current Trends",
+      "category": "history-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.928624",
+      "image": {
+        "id": "d9bc6151f582eddd3bbbf7701e90e05d33a229b295da6aa6bde319ba06a2f931",
+        "url": "https://picsum.photos/831/579?random=633",
+        "alt": "Featured image for: Nordic Fresh Style History in 2026: Current Trends",
+        "width": 831,
+        "height": 579
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-nordic-fresh-style-history",
+      "title": "Future of Nordic Fresh Style History",
+      "category": "history-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.928834",
+      "image": {
+        "id": "90995bcdbe3b2b32e6e8ec46d0b53d478c6e798acd91015763ba72c10541e30b",
+        "url": "https://picsum.photos/896/534?random=63",
+        "alt": "Featured image for: Future of Nordic Fresh Style History",
+        "width": 896,
+        "height": 534
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-nordic-fresh-style-history",
+      "title": "Common Mistakes in Nordic Fresh Style History",
+      "category": "history-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.928995",
+      "image": {
+        "id": "d9bc6151f582eddd3bbbf7701e90e05d33a229b295da6aa6bde319ba06a2f931",
+        "url": "https://picsum.photos/831/579?random=633",
+        "alt": "Featured image for: Common Mistakes in Nordic Fresh Style History",
+        "width": 831,
+        "height": 579
+      }
+    },
+    {
+      "id": 63,
+      "slug": "nordic-fresh-style-history-for-beginners",
+      "title": "Nordic Fresh Style History for Beginners",
+      "category": "history-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.929274",
+      "image": {
+        "id": "5acb05bffe9093b6a9cdf2cb303b032e9785c07e12b2f7a7c3f7128cb31dc238",
+        "url": "https://picsum.photos/992/453?random=153",
+        "alt": "Featured image for: Nordic Fresh Style History for Beginners",
+        "width": 992,
+        "height": 453
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-nordic-fresh-style-history-techniques",
+      "title": "Advanced Nordic Fresh Style History Techniques",
+      "category": "history-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.929339",
+      "image": {
+        "id": "ec200db32f3901c9b76c0d196fd972180ca81816975f05766318f2ead6e487be",
+        "url": "https://picsum.photos/992/565?random=547",
+        "alt": "Featured image for: Advanced Nordic Fresh Style History Techniques",
+        "width": 992,
+        "height": 565
+      }
+    },
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-nordic-fresh-style",
+      "title": "The Ultimate Guide to Trending Nordic Fresh Style",
+      "category": "trending-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.930330",
+      "image": {
+        "id": "5acb05bffe9093b6a9cdf2cb303b032e9785c07e12b2f7a7c3f7128cb31dc238",
+        "url": "https://picsum.photos/992/453?random=153",
+        "alt": "Featured image for: The Ultimate Guide to Trending Nordic Fresh Style",
+        "width": 992,
+        "height": 453
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-nordic-fresh-style-everything-you-need-to-know",
+      "title": "Trending Nordic Fresh Style: Everything You Need to Know",
+      "category": "trending-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.930360",
+      "image": {
+        "id": "5acb05bffe9093b6a9cdf2cb303b032e9785c07e12b2f7a7c3f7128cb31dc238",
+        "url": "https://picsum.photos/992/453?random=153",
+        "alt": "Featured image for: Trending Nordic Fresh Style: Everything You Need to Know",
+        "width": 992,
+        "height": 453
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-nordic-fresh-style",
+      "title": "Understanding Trending Nordic Fresh Style",
+      "category": "trending-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.930389",
+      "image": {
+        "id": "20541c8c09b839af6a9996b46a94894ff88f310a557be3d464ef96949851db82",
+        "url": "https://picsum.photos/1027/502?random=524",
+        "alt": "Featured image for: Understanding Trending Nordic Fresh Style",
+        "width": 1027,
+        "height": 502
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-nordic-fresh-style-tips-and-best-practices",
+      "title": "Trending Nordic Fresh Style Tips and Best Practices",
+      "category": "trending-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.930418",
+      "image": {
+        "id": "20541c8c09b839af6a9996b46a94894ff88f310a557be3d464ef96949851db82",
+        "url": "https://picsum.photos/1027/502?random=524",
+        "alt": "Featured image for: Trending Nordic Fresh Style Tips and Best Practices",
+        "width": 1027,
+        "height": 502
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-nordic-fresh-style",
+      "title": "The History of Trending Nordic Fresh Style",
+      "category": "trending-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.930450",
+      "image": {
+        "id": "5acb05bffe9093b6a9cdf2cb303b032e9785c07e12b2f7a7c3f7128cb31dc238",
+        "url": "https://picsum.photos/992/453?random=153",
+        "alt": "Featured image for: The History of Trending Nordic Fresh Style",
+        "width": 992,
+        "height": 453
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-nordic-fresh-style-in-2026-current-trends",
+      "title": "Trending Nordic Fresh Style in 2026: Current Trends",
+      "category": "trending-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.930502",
+      "image": {
+        "id": "20541c8c09b839af6a9996b46a94894ff88f310a557be3d464ef96949851db82",
+        "url": "https://picsum.photos/1027/502?random=524",
+        "alt": "Featured image for: Trending Nordic Fresh Style in 2026: Current Trends",
+        "width": 1027,
+        "height": 502
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-nordic-fresh-style",
+      "title": "Future of Trending Nordic Fresh Style",
+      "category": "trending-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.930530",
+      "image": {
+        "id": "ec200db32f3901c9b76c0d196fd972180ca81816975f05766318f2ead6e487be",
+        "url": "https://picsum.photos/992/565?random=547",
+        "alt": "Featured image for: Future of Trending Nordic Fresh Style",
+        "width": 992,
+        "height": 565
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-nordic-fresh-style",
+      "title": "Common Mistakes in Trending Nordic Fresh Style",
+      "category": "trending-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.930559",
+      "image": {
+        "id": "20541c8c09b839af6a9996b46a94894ff88f310a557be3d464ef96949851db82",
+        "url": "https://picsum.photos/1027/502?random=524",
+        "alt": "Featured image for: Common Mistakes in Trending Nordic Fresh Style",
+        "width": 1027,
+        "height": 502
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-nordic-fresh-style-for-beginners",
+      "title": "Trending Nordic Fresh Style for Beginners",
+      "category": "trending-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.930588",
+      "image": {
+        "id": "90995bcdbe3b2b32e6e8ec46d0b53d478c6e798acd91015763ba72c10541e30b",
+        "url": "https://picsum.photos/896/534?random=63",
+        "alt": "Featured image for: Trending Nordic Fresh Style for Beginners",
+        "width": 896,
+        "height": 534
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-nordic-fresh-style-techniques",
+      "title": "Advanced Trending Nordic Fresh Style Techniques",
+      "category": "trending-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.930617",
+      "image": {
+        "id": "ec200db32f3901c9b76c0d196fd972180ca81816975f05766318f2ead6e487be",
+        "url": "https://picsum.photos/992/565?random=547",
+        "alt": "Featured image for: Advanced Trending Nordic Fresh Style Techniques",
+        "width": 992,
+        "height": 565
+      }
+    },
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-nordic-fresh-style-tutorials",
+      "title": "The Ultimate Guide to Nordic Fresh Style Tutorials",
+      "category": "tutorials-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.930914",
+      "image": {
+        "id": "20541c8c09b839af6a9996b46a94894ff88f310a557be3d464ef96949851db82",
+        "url": "https://picsum.photos/1027/502?random=524",
+        "alt": "Featured image for: The Ultimate Guide to Nordic Fresh Style Tutorials",
+        "width": 1027,
+        "height": 502
+      }
+    },
+    {
+      "id": 92,
+      "slug": "nordic-fresh-style-tutorials-everything-you-need-to-know",
+      "title": "Nordic Fresh Style Tutorials: Everything You Need to Know",
+      "category": "tutorials-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.930942",
+      "image": {
+        "id": "ec200db32f3901c9b76c0d196fd972180ca81816975f05766318f2ead6e487be",
+        "url": "https://picsum.photos/992/565?random=547",
+        "alt": "Featured image for: Nordic Fresh Style Tutorials: Everything You Need to Know",
+        "width": 992,
+        "height": 565
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-nordic-fresh-style-tutorials",
+      "title": "Understanding Nordic Fresh Style Tutorials",
+      "category": "tutorials-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.930974",
+      "image": {
+        "id": "90995bcdbe3b2b32e6e8ec46d0b53d478c6e798acd91015763ba72c10541e30b",
+        "url": "https://picsum.photos/896/534?random=63",
+        "alt": "Featured image for: Understanding Nordic Fresh Style Tutorials",
+        "width": 896,
+        "height": 534
+      }
+    },
+    {
+      "id": 94,
+      "slug": "nordic-fresh-style-tutorials-tips-and-best-practices",
+      "title": "Nordic Fresh Style Tutorials Tips and Best Practices",
+      "category": "tutorials-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.931004",
+      "image": {
+        "id": "d9bc6151f582eddd3bbbf7701e90e05d33a229b295da6aa6bde319ba06a2f931",
+        "url": "https://picsum.photos/831/579?random=633",
+        "alt": "Featured image for: Nordic Fresh Style Tutorials Tips and Best Practices",
+        "width": 831,
+        "height": 579
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-nordic-fresh-style-tutorials",
+      "title": "The History of Nordic Fresh Style Tutorials",
+      "category": "tutorials-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.931034",
+      "image": {
+        "id": "ec200db32f3901c9b76c0d196fd972180ca81816975f05766318f2ead6e487be",
+        "url": "https://picsum.photos/992/565?random=547",
+        "alt": "Featured image for: The History of Nordic Fresh Style Tutorials",
+        "width": 992,
+        "height": 565
+      }
+    },
+    {
+      "id": 96,
+      "slug": "nordic-fresh-style-tutorials-in-2026-current-trends",
+      "title": "Nordic Fresh Style Tutorials in 2026: Current Trends",
+      "category": "tutorials-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.931064",
+      "image": {
+        "id": "20541c8c09b839af6a9996b46a94894ff88f310a557be3d464ef96949851db82",
+        "url": "https://picsum.photos/1027/502?random=524",
+        "alt": "Featured image for: Nordic Fresh Style Tutorials in 2026: Current Trends",
+        "width": 1027,
+        "height": 502
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-nordic-fresh-style-tutorials",
+      "title": "Future of Nordic Fresh Style Tutorials",
+      "category": "tutorials-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.931093",
+      "image": {
+        "id": "20541c8c09b839af6a9996b46a94894ff88f310a557be3d464ef96949851db82",
+        "url": "https://picsum.photos/1027/502?random=524",
+        "alt": "Featured image for: Future of Nordic Fresh Style Tutorials",
+        "width": 1027,
+        "height": 502
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-nordic-fresh-style-tutorials",
+      "title": "Common Mistakes in Nordic Fresh Style Tutorials",
+      "category": "tutorials-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.931122",
+      "image": {
+        "id": "5acb05bffe9093b6a9cdf2cb303b032e9785c07e12b2f7a7c3f7128cb31dc238",
+        "url": "https://picsum.photos/992/453?random=153",
+        "alt": "Featured image for: Common Mistakes in Nordic Fresh Style Tutorials",
+        "width": 992,
+        "height": 453
+      }
+    },
+    {
+      "id": 99,
+      "slug": "nordic-fresh-style-tutorials-for-beginners",
+      "title": "Nordic Fresh Style Tutorials for Beginners",
+      "category": "tutorials-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.931149",
+      "image": {
+        "id": "20541c8c09b839af6a9996b46a94894ff88f310a557be3d464ef96949851db82",
+        "url": "https://picsum.photos/1027/502?random=524",
+        "alt": "Featured image for: Nordic Fresh Style Tutorials for Beginners",
+        "width": 1027,
+        "height": 502
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-nordic-fresh-style-tutorials-techniques",
+      "title": "Advanced Nordic Fresh Style Tutorials Techniques",
+      "category": "tutorials-nordic-fresh-style",
+      "created_at": "2026-06-04T11:35:24.931260",
+      "image": {
+        "id": "20541c8c09b839af6a9996b46a94894ff88f310a557be3d464ef96949851db82",
+        "url": "https://picsum.photos/1027/502?random=524",
+        "alt": "Featured image for: Advanced Nordic Fresh Style Tutorials Techniques",
+        "width": 1027,
+        "height": 502
+      }
+    }
+  ],
+  "categories": [
+    "beginner-nordic-fresh-style",
+    "advanced-nordic-fresh-style",
+    "tips-nordic-fresh-style",
+    "history-nordic-fresh-style",
+    "trending-nordic-fresh-style",
+    "tutorials-nordic-fresh-style"
+  ]
+}
